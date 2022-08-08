@@ -1,0 +1,7 @@
+From: foobar@auth.com
+To: seeni@linuxhandbook.com
+Subject: Linux is best
+
+Linux stood the test of time. We thank everyone who ever contributed, advocated, used or did anything that made what Linux is now.
+Thanks and regards,
+Linux Folks
